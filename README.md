@@ -90,4 +90,4 @@ GitHub: https://github.com/mdsafinmahmud
 
 ## ⭐ Support
 
-If you like this project, give it a sta
+If you like this project, give it a star
